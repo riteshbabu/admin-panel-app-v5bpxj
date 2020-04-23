@@ -35,7 +35,7 @@ class UserList extends Component {
     <div>
      
      <h3 id='title'>User List</h3>
-            <Table striped bordered hover id='students'> 
+            <Table striped bordered hover id='students' size="sm"> 
             <thead>
               <tr>
                 <th>Name</th>
